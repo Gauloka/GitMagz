@@ -1,0 +1,2 @@
+# GitMagz
+Publik
